@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dr-Kudy
 - 👀 I’m interested in Python image processing 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java and Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
