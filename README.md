@@ -1,4 +1,4 @@
-- 👋 Hello there! I’m @Dr-Kudy
+- 👋 Hello there! I’m Kuday
 - 👀 I'm interested in Python image processing and Android development.
 - 🌱 I’m currently learning Android Studio Java & Kotlin
 - 💞️ I’m looking to collaborate on ...
